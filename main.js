@@ -500,7 +500,7 @@ function triggerFinalPage() {
         finalPage.id = 'finalPage';
         finalPage.style.cssText = `
             position: fixed; inset: 0;
-            background: #fff;
+            background: #fce8ef;
             z-index: 600;
             display: flex; align-items: center; justify-content: center;
             overflow: hidden;
